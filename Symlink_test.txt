@@ -1,0 +1,2 @@
+this file is to test the contents of the symlink that points
+from Linux Lesson 4 folder to this Git folder
