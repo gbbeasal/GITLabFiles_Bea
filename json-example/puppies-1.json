@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Muffin",
+        "age": 4,
+        "breed": "Pamerion",
+        "color": "White",
+        "created_at": "2019-05-02T06:30:20.104574Z",
+        "updated_at": "2019-05-02T06:30:20.104682Z"
+    },
+    {
+        "name": "Brownie",
+        "age": 5,
+        "breed": "Askal",
+        "color": "Brown",
+        "created_at": "2019-05-02T06:33:01.353264Z",
+        "updated_at": "2019-05-02T06:33:01.353401Z"
+    },
+    {
+        "name": "John Rambo",
+        "age": 2,
+        "breed": "Labrador",
+        "color": "White",
+        "created_at": "2019-05-03T06:55:47.267506Z",
+        "updated_at": "2019-05-03T06:55:47.267599Z"
+    }
+]
